@@ -1,4 +1,4 @@
-package com.example.controller;
+package com.example.pages;
 
 import com.example.services.WeatherService;
 import java.awt.event.ActionEvent;

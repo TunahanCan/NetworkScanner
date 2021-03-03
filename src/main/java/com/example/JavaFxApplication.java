@@ -8,7 +8,7 @@ package com.example;
 
 
 
-import com.example.controller.MainController;
+import com.example.pages.MainController;
 import javafx.application.Application;
 import javafx.application.Platform;
 import javafx.scene.Parent;

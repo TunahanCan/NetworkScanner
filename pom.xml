@@ -8,9 +8,10 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>NetworkScanner</name>
     <description>project for Spring Boot</description>
+   
     <properties>
         <java.version>11</java.version>
-        <javafx.version>13.0.1</javafx.version>
+        <javafx.version>15.0.1</javafx.version>
     </properties>
     
     <parent>
